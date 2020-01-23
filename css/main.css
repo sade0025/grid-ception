@@ -32,3 +32,12 @@ figure {
   margin: 0;
   position: relative;
 }
+ .mip {
+   position: relative;
+ }
+ .me {
+   position: absolute;
+   background-color: rgba(255, 255, 255, 0.3);
+   max-width: 10em;
+   bottom: 0;
+ }
